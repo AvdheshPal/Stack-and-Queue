@@ -1,7 +1,7 @@
 # Stack-and-Queue
  
- <h1>Questions are here :-</h1>
-    <li>
-        <ul>Balance Parantheses</ul>
-        <ul>Balance Parantheses</ul>
-    </li>
+ <h2>Questions are here :-</h2>
+    <ul>
+        <li>Balance Parantheses</li>
+        <li>Signal's Capacity</li>
+    </ul>
